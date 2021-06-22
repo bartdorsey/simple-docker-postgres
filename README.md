@@ -14,7 +14,7 @@ The container is set to automatically start when docker starts, so if docker is
 set to start on boot, so will your postgres database, unless you have manually
 stopped the contaienr.
 
-If you want to easily start and dtop this, you will need to keep this cloned repo
+If you want to easily start and stop this, you will need to keep this cloned repo
 around and go into the directory before running docker-compose commands.
 
 ## Before you start it the first time
