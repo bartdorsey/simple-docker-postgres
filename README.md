@@ -82,7 +82,7 @@ You also have to give this file proper permissions for it to work with this comm
 chmod 0600 ~/.pgpass
 ```
 
-After this should you be able to type `pgsql` and it should connect without prompting you for anything.
+After this should you be able to type `psql` and it should connect without prompting you for anything.
 
 ## Starting over
 
